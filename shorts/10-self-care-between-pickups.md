@@ -37,6 +37,20 @@
 - [ ] Hand cream / lip balm close-up
 - [ ] "Self-care car kit" pouch flat-lay (optional extra Short)
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Easy
+
+**Faceless hook:** Dashboard view from the passenger seat: parked car, engine off, school blurred through the windshield. VO stays the same.
+
+| Original shot | Faceless swap |
+|---|---|
+| Singing along | Hand turning up the volume + fingers tapping the steering wheel |
+| Hand cream / lip balm | Already hands-only |
+| Kids' door opens | Back door opening, a small backpack tossed onto the seat |
+
+- Use a soft breathing animation (expanding box) over the dashboard shot for the box-breathing part.
+
 ## Description
 Five minutes in the pick-up line, a calmer mom at the car door. Phone down, breathe, hand cream, a snack just for me, one great song.
 Mental load reset — simple habits that keep you sane: [link]

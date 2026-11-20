@@ -47,6 +47,22 @@ Split image: left you in a robe with messy hair + coffee, right you finished wit
 - [ ] Final walk out the door
 - [ ] Timer overlay visible the entire video
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐ Medium
+
+**Faceless hook:** Phone alarm at 6:50 a.m. ringing on the nightstand, a hand turns it off. VO: "Drop-off is at 7:45. In the next ten minutes I'm going to do my skin, my makeup, my hair — and get the kids moving. Timer's on."
+
+| Original shot | Faceless swap |
+|---|---|
+| Bathroom wide shot | Counter top-down: products lined up, hands working |
+| Skin / makeup / hair | Use the faceless swaps from Shorts 01, 02 and 08 (hands, body-part crops, from-behind hair) |
+| Kids moving | Feet, small hands, backpacks — see Short 04 |
+| Walking out the door | POV from the door: keys, coffee, door closes |
+
+- Thumbnail: split image of a chaotic vs. organized counter + "10 MIN" — no face needed.
+- A POV-style (chest-mounted or handheld phone) works great for a "routine" video.
+
 ## Description
 My real 10-minute morning routine — skin, makeup, hair and getting the kids out the door — on a regular school day. No 5 a.m. wake-up required.
 

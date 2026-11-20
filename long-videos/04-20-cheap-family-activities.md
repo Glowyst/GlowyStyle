@@ -62,6 +62,19 @@ Collage of 4 activities (blanket fort, flashlight, sidewalk chalk, pancakes), yo
 - [ ] Boredom jar DIY close-up
 - [ ] Kids' reactions (back view/hands if preferred)
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Easy
+
+**Faceless hook:** Fast montage: chalk on pavement, a flashlight beam in a dark room, a blanket fort from outside, pancake shapes. VO: "You don't need a $40 trampoline park…"
+
+| Original shot | Faceless swap |
+|---|---|
+| Kids' reactions | Hands, feet and audio of laughter; or the result (fort, chalk course, pancake art) |
+| Each activity | Film the setup + result top-down or from behind |
+
+- Each activity becomes its own faceless Short — 20 Shorts from one video.
+
 ## Description
 20 cheap (mostly free!), low-effort family activities my kids actually love — rated by how tired you are. Plus the boredom jar trick.
 

@@ -33,6 +33,21 @@
 ## Note
 Works best on straight to wavy hair, shoulder length or longer. For a follow-up Short: version for short hair / curly hair.
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐ Medium
+
+**Faceless hook:** Shot from behind: flat second-day hair, hand grabs dry shampoo, timer appears. VO stays the same.
+
+| Original shot | Faceless swap |
+|---|---|
+| Flat hair (front) | Back-of-head shot or side profile cropped above the eyes |
+| Head flip | Film from behind — the flip still reads perfectly |
+| Twist + clips | Back view, close-up on hands twisting and clipping |
+| Final reveal | Back view in window light, hand fluffing waves; a mirror shot with phone covering face |
+
+- "From behind" hair videos are a very common faceless format — it works.
+
 ## Description
 Two minutes, three products (dry shampoo, claw clips, hair oil), and second-day hair that looks done on purpose.
 Full 10-minute morning routine: [link]

@@ -30,6 +30,18 @@
 - [ ] Timer overlay counting down
 - [ ] Morning shot of the calm kitchen (optional loop ending)
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Perfect — no changes needed
+
+**Faceless hook:** Top-down tripod shot of the messy kitchen, timer appears. VO stays the same.
+
+| Original shot | Faceless swap |
+|---|---|
+| All shots | Already hands + rooms only. Film from a fixed tripod angle per zone and speed it up |
+
+- This is the template for every faceless video on the channel: fixed angle, time-lapse, timer, voiceover.
+
 ## Description
 The 10 minutes I spend every night that make my mornings 10x easier. Kitchen, launch pad, outfits, one-basket sweep, coffee, calendar. Done.
 Full weekly home-organizing system: [link]

@@ -30,12 +30,16 @@ Every Short feeds a long video. Every long video is chopped back into Shorts. Sa
 ├── channel/
 │   ├── brand-guide.md         ← voice, look, thumbnails, recurring phrases
 │   ├── upload-plan.md         ← 6-week publishing calendar
+│   ├── faceless-guide.md      ← how to film the channel without showing your face
 │   └── video-template.md      ← blank template for new scripts
 ├── shorts/                    ← 10 ready-to-film Shorts (≤ 60 sec)
-└── long-videos/               ← 5 ready-to-film long videos (10–18 min)
+├── long-videos/               ← 5 ready-to-film long videos (10–18 min)
+└── planning/                  ← Word doc: one film/upload day + first week
 ```
 
-Each script includes: title options, hook, timed script, on-screen text, shot list, description, hashtags and a call to action that links Shorts ↔ long videos.
+Each script includes: title options, hook, timed script, on-screen text, shot list, a **faceless version**, description, hashtags and a call to action that links Shorts ↔ long videos.
+
+> **Prefer not to show your face?** Every script has a *Faceless version* section with a faceless hook and shot swaps. Start with [`channel/faceless-guide.md`](channel/faceless-guide.md).
 
 ---
 

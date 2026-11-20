@@ -50,6 +50,22 @@ You, polished, holding two items: one with a red ❌ (e.g. heavy powder), one wi
 - [ ] Closet segment: 3 basics on hangers
 - [ ] Final full-face demo with timer
 
+## Faceless version
+
+**Faceless fit:** ⭐ Hardest (beauty results are usually shown on a face)
+
+**Faceless hook:** Two products on a counter, a hand puts a red ❌ sticker on one and a green ✔ on the other. VO: "In my 30s my makeup started sitting differently. Here's what I changed — and what I'm keeping forever."
+
+| Original shot | Faceless swap |
+|---|---|
+| Half-face comparisons | Hand-swatch comparisons: powder vs. cream on the back of the hand, under a magnifying light |
+| Applying products | Body-part crops: cheek only, lips only, brows only |
+| Closet segment | Already faceless: flat-lays and hangers |
+| Final full-face demo | Replace with a "5-minute polished kit" flat-lay + step-by-step hand demo |
+
+- Option: turn this into a voiceover-led "product talk" with flat-lays and close-ups — very popular format.
+- Or film just this one video with your face and keep the rest faceless.
+
 ## Description
 What I changed — and what I'm keeping forever — to look polished in my 30s and 40s. Fewer products, smarter swaps, all in minutes.
 

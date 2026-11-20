@@ -55,6 +55,20 @@ You with a calm face, and floating sticky notes ("dentist!", "milk", "permission
 - [ ] Car-line reset (from Short 10)
 - [ ] Sunday check-in at kitchen table with coffee
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Easy
+
+**Faceless hook:** Dark bedroom, phone screen lights up with notifications ("Permission slip!", "Dentist 3pm"), sticky notes fly in. VO stays the same.
+
+| Original shot | Faceless swap |
+|---|---|
+| Talking-head parts | Calm B-roll: writing in a notebook, coffee, window light, walking feet |
+| Sunday check-in | Top-down kitchen table: two coffee mugs, the 4-question card, a calendar |
+| Habit visuals | Animated sticky notes / checklists in Canva |
+
+- Because this topic is personal, use your own voice (not AI) here — it builds trust.
+
 ## Description
 The mental load is the invisible to-do list that never turns off. Here are 7 simple habits — each under 5 minutes — that keep me sane: brain dump, one place for everything, the "good enough" rule, handing over whole tasks, deciding once, micro-rituals and a weekly check-in.
 

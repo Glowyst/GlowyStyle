@@ -30,6 +30,22 @@
 - [ ] Before/after split
 - [ ] Timer overlay throughout
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐ Medium (makeup needs close-ups)
+
+**Faceless hook:** Overhead shot of 5 products on the counter, a hand slams down a coffee mug. VO: "Five hours of sleep. Five products. Three minutes. Let's fake it."
+
+| Original shot | Faceless swap |
+|---|---|
+| Tired "before" face | Close-up of a coffee mug + phone alarm showing 6:52 a.m. |
+| Concealer under eyes | Product swatched on the back of the hand, then tight crop: eye area only (no full face) |
+| Skin tint / blush on face | Hand-swatch + blending on the back of the hand to show texture; or crop from nose down |
+| Before/after split | Product line-up "used" vs. "unused" + mirror shot from behind (shoulder + hair, face out of frame) |
+
+- Body-part-only framing (eyes, lips, cheek) keeps it faceless while still showing the result.
+- Alternative: film it as a "product tutorial" on a mannequin head or face chart.
+
 ## Description
 Five products, three minutes, zero brushes. This is my go-to face for the mornings when I've had way too little sleep and way too much to do. 💛
 Full 10-minute morning routine (skin + makeup + getting the kids out): [link]

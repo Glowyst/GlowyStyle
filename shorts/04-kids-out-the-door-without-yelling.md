@@ -32,6 +32,21 @@
 ## Privacy note
 Film kids from behind, hands-only or out-of-focus if you prefer not to show faces.
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Easy
+
+**Faceless hook:** Black screen + audio "SHOES! WE'RE LATE!", cut to a calm close-up of a coffee mug being picked up. VO: "That used to be every morning. Here's what fixed it."
+
+| Original shot | Faceless swap |
+|---|---|
+| Calm face + coffee | Hand picking up coffee next to the picture checklist on the door |
+| Kids checking boxes | Small hands with a marker checking boxes (or your hand demonstrating) |
+| Kids moving | Feet only: little shoes being put on, backpack being zipped |
+| Walking out | Door closing from the inside, keys grabbed from the hook |
+
+- Faceless is extra good here: it also protects your kids' privacy.
+
 ## Description
 Three tiny changes that turned our school mornings from chaos to (mostly) calm: a picture checklist, the "when-then" rule and a leaving song.
 Full 10-minute morning routine: [link]

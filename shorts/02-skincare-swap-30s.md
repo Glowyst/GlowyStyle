@@ -31,6 +31,21 @@
 - [ ] Touching cheek "tight" vs "comfy"
 - [ ] Simple barrier graphic
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Easy
+
+**Faceless hook:** Hand drops a foaming cleanser into the trash (or a drawer) in slow motion. VO: "If you're in your 30s and still using this — let's talk."
+
+| Original shot | Faceless swap |
+|---|---|
+| Holding old cleanser | Hand holding old vs. new cleanser, side by side on the counter |
+| Washing face | Sink close-up: water running, hands lathering a cleanser |
+| Touching cheek "tight vs comfy" | Texture shots: foam vs. cream cleanser squeezed onto fingertips |
+| Smile at the end | Both bottles on a shelf, old one pushed out of frame |
+
+- The barrier graphic (brick wall) does a lot of work here — make it a 3-second animation in Canva.
+
 ## Description
 One swap, big difference: trade your stripping cleanser for a gentle, hydrating one. Do the 2-minute tightness test tonight and tell me what you find.
 What to change (and keep) in your 30s and 40s: [link]

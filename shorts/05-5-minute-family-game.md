@@ -37,6 +37,21 @@ Everyone takes turns asking a "Would you rather…?" question. Everyone answers 
 - [ ] Reaction close-ups
 - [ ] Text cards for questions
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐ Medium
+
+**Faceless hook:** Text on screen: "Would you rather… have spaghetti hair or broccoli fingers?" over a top-down shot of a dinner table with hands reaching for food. Audio: kids laughing.
+
+| Original shot | Faceless swap |
+|---|---|
+| Family laughing at the table | Top-down table shot: plates, hands, cups; real laughter as audio only |
+| Kid answering | Text bubbles on screen with the answers + kid's voice (or yours) |
+| Car montage | Back-seat view of small sneakers swinging (parked car) |
+
+- The audio of real laughter is the star — the faces aren't needed.
+- Easiest version: animated text cards + your voiceover only.
+
 ## Description
 The easiest family game ever: Would You Rather — Speed Round. No prep, no supplies, works at dinner, in the car or in a waiting room.
 20 cheap, low-effort family activities: [link]

@@ -40,6 +40,18 @@ Rotisserie chicken or frozen protein · microwave rice / pasta / tortillas · fr
 - [ ] Time-lapse cooking with timer
 - [ ] Bowls on table, family eating (hands/back view)
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Perfect — no changes needed
+
+**Faceless hook:** Close-up of the oven clock: 5:45. Audio: "Mom, what's for dinner?" VO stays the same.
+
+| Original shot | Faceless swap |
+|---|---|
+| All shots | Already hands + food only (top-down cooking is the classic faceless format) |
+
+- Shoot top-down with a phone arm above the stove/counter for the cleanest look.
+
 ## Description
 My hectic-night dinner formula: protein + carb + veg + sauce. Keep these in stock and dinner is always 15 minutes away. Screenshot the combo cards! 📸
 Weekly home system (with meal planning): [link]

@@ -54,6 +54,19 @@ Wide shot of a calm, tidy (not staged) living room, you on the couch with coffee
 - [ ] Sunday reset: phone grocery order, family calendar
 - [ ] Kids doing age-appropriate jobs (hands/back view)
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Perfect
+
+**Faceless hook:** Time-lapse of a messy living room becoming calm, timer in the corner. VO stays the same.
+
+| Original shot | Faceless swap |
+|---|---|
+| Kitchen-table segments | Top-down table: planner, phone with grocery app, coffee |
+| Kids doing chores | Small hands only: sorting toys, carrying a laundry basket |
+
+- The animated weekly grid is your main visual — let it come back between chapters.
+
 ## Description
 My complete weekly home-organizing system for busy women: 20 minutes a day + 30 minutes on Sunday. Daily basics, one focus zone a day, laundry, meals and how to get the family on board.
 

@@ -37,6 +37,18 @@ Wash cold and use mixed-color loads if you're nervous about sorting — most eve
 - [ ] Basket carried to kid's room, kid putting away
 - [ ] After: empty couch
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐⭐ Perfect — no changes needed
+
+**Faceless hook:** Fixed shot of the laundry mountain on the couch, slowly zooming in. VO stays the same.
+
+| Original shot | Faceless swap |
+|---|---|
+| All shots | Already hands + objects only (machine, basket, folding, putting away) |
+
+- Add the weekly schedule as a clean on-screen graphic — viewers screenshot those.
+
 ## Description
 No more laundry days, no more laundry mountain. One load, one basket, one person a day.
 Full weekly home-organizing system: [link]

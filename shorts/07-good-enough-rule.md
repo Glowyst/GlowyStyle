@@ -28,6 +28,20 @@
 - [ ] 3 quick "good enough" examples (cake, dinner, makeup)
 - [ ] Calm close-up for the ending
 
+## Faceless version
+
+**Faceless fit:** ⭐⭐ Medium (originally a talking head)
+
+**Faceless hook:** Slow pan over a lived-in kitchen (some dishes, a drawing on the fridge). VO: "My kitchen isn't perfect right now. And that's the whole point."
+
+| Original shot | Faceless swap |
+|---|---|
+| Talking head | Calm B-roll: pouring coffee, steam, window light — VO carries the message |
+| 3 quick examples | Store-bought cake getting candles · rotisserie chicken unpacked · makeup bag zipped shut |
+| Calm close-up | Hands around a mug on the couch, feet in cozy socks |
+
+- Big text cards are key: **WHAT'S THE 80% VERSION?** and **THE LAST 20% = 80% OF YOUR ENERGY**.
+
 ## Description
 Not everything deserves 100%. The "good enough" rule: before every task, ask what the 80% version is. Save your energy for what really matters to you.
 Mental load reset — simple habits that keep you sane: [link]
